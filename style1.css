@@ -1,0 +1,25 @@
+#first{
+    height: 500;
+    width:1500;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    margin:auto;
+    padding: 20px;  
+    font-family:cursive;
+   
+    position: sticky;
+  
+}
+
+img{
+    border-top-left-radius: 15%;
+    border-top-right-radius: 15%;
+    border-bottom-left-radius: 15%;
+    border-bottom-right-radius: 15%;   
+}
+#bg{
+    background-color:rgb(186, 159, 180);
+    
+}
